@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTLogin.API", "JWTLogin.API\JWTLogin.API.csproj", "{12275E0A-3754-47A0-A864-2B0D9EE676A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTLogin.DataAccess", "JWTLogin.DataAccess\JWTLogin.DataAccess.csproj", "{4B087EAE-BED6-4825-B4AC-5049B5187EBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTLogin.Business", "JWTLogin.Business\JWTLogin.Business.csproj", "{1514DD3F-079A-41C4-B683-BCDABB35C205}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTLogin.Entity", "JWTLogin.Entity\JWTLogin.Entity.csproj", "{0CBA4678-5B9D-45DC-A2E9-4C887213632A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTLogin.DTO", "JWTLogin.DTO\JWTLogin.DTO.csproj", "{4319499B-0BC0-494B-ABBF-28674A0310FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTLogin.WebUI", "JWTLogin.WebUI\JWTLogin.WebUI.csproj", "{D80871C0-1CF8-4A9E-9DB4-5EEB6D4F54A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12275E0A-3754-47A0-A864-2B0D9EE676A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12275E0A-3754-47A0-A864-2B0D9EE676A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12275E0A-3754-47A0-A864-2B0D9EE676A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12275E0A-3754-47A0-A864-2B0D9EE676A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B087EAE-BED6-4825-B4AC-5049B5187EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B087EAE-BED6-4825-B4AC-5049B5187EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B087EAE-BED6-4825-B4AC-5049B5187EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B087EAE-BED6-4825-B4AC-5049B5187EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1514DD3F-079A-41C4-B683-BCDABB35C205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1514DD3F-079A-41C4-B683-BCDABB35C205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1514DD3F-079A-41C4-B683-BCDABB35C205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1514DD3F-079A-41C4-B683-BCDABB35C205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBA4678-5B9D-45DC-A2E9-4C887213632A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBA4678-5B9D-45DC-A2E9-4C887213632A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBA4678-5B9D-45DC-A2E9-4C887213632A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBA4678-5B9D-45DC-A2E9-4C887213632A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4319499B-0BC0-494B-ABBF-28674A0310FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4319499B-0BC0-494B-ABBF-28674A0310FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4319499B-0BC0-494B-ABBF-28674A0310FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4319499B-0BC0-494B-ABBF-28674A0310FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80871C0-1CF8-4A9E-9DB4-5EEB6D4F54A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80871C0-1CF8-4A9E-9DB4-5EEB6D4F54A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80871C0-1CF8-4A9E-9DB4-5EEB6D4F54A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80871C0-1CF8-4A9E-9DB4-5EEB6D4F54A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F4AD66-CC27-490E-A75D-303E443A9D56}
+	EndGlobalSection
+EndGlobal
