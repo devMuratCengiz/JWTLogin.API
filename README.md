@@ -1,0 +1,1 @@
+Mail aktivasyonu ve JWT
